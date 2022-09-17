@@ -1,0 +1,15 @@
+C:\Users\Borcuha555\Borcuha555\Example\Example006_Baze\bin\Debug\net6.0\Example006_Baze.exe
+C:\Users\Borcuha555\Borcuha555\Example\Example006_Baze\bin\Debug\net6.0\Example006_Baze.deps.json
+C:\Users\Borcuha555\Borcuha555\Example\Example006_Baze\bin\Debug\net6.0\Example006_Baze.runtimeconfig.json
+C:\Users\Borcuha555\Borcuha555\Example\Example006_Baze\bin\Debug\net6.0\Example006_Baze.dll
+C:\Users\Borcuha555\Borcuha555\Example\Example006_Baze\bin\Debug\net6.0\Example006_Baze.pdb
+C:\Users\Borcuha555\Borcuha555\Example\Example006_Baze\obj\Debug\net6.0\Example006_Baze.csproj.AssemblyReference.cache
+C:\Users\Borcuha555\Borcuha555\Example\Example006_Baze\obj\Debug\net6.0\Example006_Baze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borcuha555\Borcuha555\Example\Example006_Baze\obj\Debug\net6.0\Example006_Baze.AssemblyInfoInputs.cache
+C:\Users\Borcuha555\Borcuha555\Example\Example006_Baze\obj\Debug\net6.0\Example006_Baze.AssemblyInfo.cs
+C:\Users\Borcuha555\Borcuha555\Example\Example006_Baze\obj\Debug\net6.0\Example006_Baze.csproj.CoreCompileInputs.cache
+C:\Users\Borcuha555\Borcuha555\Example\Example006_Baze\obj\Debug\net6.0\Example006_Baze.dll
+C:\Users\Borcuha555\Borcuha555\Example\Example006_Baze\obj\Debug\net6.0\refint\Example006_Baze.dll
+C:\Users\Borcuha555\Borcuha555\Example\Example006_Baze\obj\Debug\net6.0\Example006_Baze.pdb
+C:\Users\Borcuha555\Borcuha555\Example\Example006_Baze\obj\Debug\net6.0\Example006_Baze.genruntimeconfig.cache
+C:\Users\Borcuha555\Borcuha555\Example\Example006_Baze\obj\Debug\net6.0\ref\Example006_Baze.dll
