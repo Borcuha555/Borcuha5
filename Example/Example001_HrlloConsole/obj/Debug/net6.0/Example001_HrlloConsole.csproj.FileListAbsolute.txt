@@ -1,0 +1,15 @@
+C:\Users\Borcuha555\Borcuha555\Example\Example001_HrlloConsole\bin\Debug\net6.0\Example001_HrlloConsole.exe
+C:\Users\Borcuha555\Borcuha555\Example\Example001_HrlloConsole\bin\Debug\net6.0\Example001_HrlloConsole.deps.json
+C:\Users\Borcuha555\Borcuha555\Example\Example001_HrlloConsole\bin\Debug\net6.0\Example001_HrlloConsole.runtimeconfig.json
+C:\Users\Borcuha555\Borcuha555\Example\Example001_HrlloConsole\bin\Debug\net6.0\Example001_HrlloConsole.dll
+C:\Users\Borcuha555\Borcuha555\Example\Example001_HrlloConsole\bin\Debug\net6.0\Example001_HrlloConsole.pdb
+C:\Users\Borcuha555\Borcuha555\Example\Example001_HrlloConsole\obj\Debug\net6.0\Example001_HrlloConsole.csproj.AssemblyReference.cache
+C:\Users\Borcuha555\Borcuha555\Example\Example001_HrlloConsole\obj\Debug\net6.0\Example001_HrlloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borcuha555\Borcuha555\Example\Example001_HrlloConsole\obj\Debug\net6.0\Example001_HrlloConsole.AssemblyInfoInputs.cache
+C:\Users\Borcuha555\Borcuha555\Example\Example001_HrlloConsole\obj\Debug\net6.0\Example001_HrlloConsole.AssemblyInfo.cs
+C:\Users\Borcuha555\Borcuha555\Example\Example001_HrlloConsole\obj\Debug\net6.0\Example001_HrlloConsole.csproj.CoreCompileInputs.cache
+C:\Users\Borcuha555\Borcuha555\Example\Example001_HrlloConsole\obj\Debug\net6.0\Example001_HrlloConsole.dll
+C:\Users\Borcuha555\Borcuha555\Example\Example001_HrlloConsole\obj\Debug\net6.0\refint\Example001_HrlloConsole.dll
+C:\Users\Borcuha555\Borcuha555\Example\Example001_HrlloConsole\obj\Debug\net6.0\Example001_HrlloConsole.pdb
+C:\Users\Borcuha555\Borcuha555\Example\Example001_HrlloConsole\obj\Debug\net6.0\Example001_HrlloConsole.genruntimeconfig.cache
+C:\Users\Borcuha555\Borcuha555\Example\Example001_HrlloConsole\obj\Debug\net6.0\ref\Example001_HrlloConsole.dll
